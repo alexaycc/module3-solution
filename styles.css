@@ -16,9 +16,10 @@ h2 {
 }
 
 section {
-    border: 2px solid blue;
+    border: 2px solid purple;
     margin-top: 7%;
     margin-bottom: 3%;
     padding: 5%;
-    background-color: coral;
+    background-color: lightblue;
+
 }
